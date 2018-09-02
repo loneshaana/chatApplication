@@ -1,0 +1,24 @@
+{
+  "name": "chatapplication",
+  "version": "1.0.0",
+  "description": "A Chat application build with node,mongodb , express and socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loneshaana/chatApplication.git"
+  },
+  "author": "Anwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loneshaana/chatApplication/issues"
+  },
+  "homepage": "https://github.com/loneshaana/chatApplication#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
